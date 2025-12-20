@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ぼなぺてぃーと▽S",
+  "base_artist": "ブレンド・A",
+  "createdAt": "2025-12-20T09:26:07.742872Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぼなぺてぃーと▽S",
+      "artist": "ブレンド・A",
+      "has_synced": true,
+      "path": "select/01_ぼなぺてぃーと▽S_ブレンド・A.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぼなぺてぃーと♡S",
+      "artist": "ブレンド・A",
+      "has_synced": true,
+      "path": "select/02_ぼなぺてぃーと♡S_ブレンド・A.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ぼなぺてぃーと♡S",
+      "artist": "ブレンド・A",
+      "has_synced": true,
+      "path": "select/03_ぼなぺてぃーと♡S_ブレンド・A.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ぼなぺてぃーと▽S",
+      "artist": "ブレンド・A",
+      "has_synced": true,
+      "path": "select/04_ぼなぺてぃーと▽S_ブレンド・A.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ぼなぺてぃーと▽S（TVサイズver）",
+      "artist": "ブレンド・A",
+      "has_synced": false,
+      "path": "select/05_ぼなぺてぃーと▽S(TVサイズver)_ブレンド・A.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ぼなぺてぃーと♡S -Hall staff ver.-",
+      "artist": "V.A.",
+      "has_synced": true,
+      "path": "select/06_ぼなぺてぃーと♡S_-Hall_staff_ver.-_V.A..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ぼなぺてぃーと▽S",
+      "artist": "BLEND-A",
+      "has_synced": true,
+      "path": "select/07_ぼなぺてぃーと▽S_BLEND-A.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ぼなぺてぃーと♡S -All staff ver.-",
+      "artist": "V.A.",
+      "has_synced": true,
+      "path": "select/08_ぼなぺてぃーと♡S_-All_staff_ver.-_V.A..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼなぺてぃーと S",
+      "artist": "ブレンド・A",
+      "has_synced": false,
+      "path": "select/pl_01_ぼなぺてぃーと_S_ブレンド・A.txt"
+    }
+  ]
+}
