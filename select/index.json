@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ぼなぺてぃーと▽S",
   "base_artist": "ブレンド・A",
-  "createdAt": "2025-12-20T09:26:09.382613Z",
+  "createdAt": "2026-01-09T07:56:08.584580Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -67,6 +67,14 @@
       "artist": "V.A.",
       "has_synced": true,
       "path": "select/08_ぼなぺてぃーと♡S_-All_staff_ver.-_V.A..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ぼなぺてぃーと▽S (Paused)",
+      "artist": "ブレンド・A",
+      "has_synced": true,
+      "path": "select/09_ぼなぺてぃーと▽S_(Paused)_ブレンド・A.lrc"
     },
     {
       "id": "petitlyrics_1",
